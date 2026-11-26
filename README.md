@@ -1,6 +1,6 @@
-# INUIRT — NTUitIve-based Resilient Topology
+# INUIRT — Intuitive-based Resilient Topology
 
-Emulador em Python/NetworkX usado para avaliar o framework **IRT (Intuitive Resilient Topologies)** num cenário IIoT de manufatura inteligente. O emulador gera topologias de rede sintéticas, injeta falhas de nó, falhas de enlace e ataques DoS a cada ciclo, e compara três cenários: rede sem ataque, rede atacada sem defesa e rede atacada protegida pelo motor intuitivo (detecção Rintuitive + decisão dual System 1/System 2 + ações de resiliência).
+Emulador em Python/NetworkX usado para avaliar o framework **INUIRT — Intuitive-based Resilient Topology** num cenário IIoT de manufatura inteligente. O emulador gera topologias de rede sintéticas, injeta falhas de nó, falhas de enlace e ataques DoS a cada ciclo, e compara três cenários: rede sem ataque, rede atacada sem defesa e rede atacada protegida pelo motor intuitivo (detecção Rintuitive + decisão dual System 1/System 2 + ações de resiliência).
 
 > Artigo associado: *Intuitive Resilient Topologies* — em revisão na Elsevier *Computer Communications*. A referência completa será adicionada após a publicação.
 
